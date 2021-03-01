@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339744695058",
+    "project_id": "monkeyspeciesap",
+    "storage_bucket": "monkeyspeciesap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339744695058:android:fff6ff5b35461a504149cb",
+        "android_client_info": {
+          "package_name": "com.fouxa.monkeyidentificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339744695058-4kijdern0455pev043bukrd9uajqtnbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyLHhVlGRK_xbuEMyUtnEkg4rD16ulLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339744695058-4kijdern0455pev043bukrd9uajqtnbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
